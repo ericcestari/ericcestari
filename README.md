@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, Eu sou o Eric</h1>
-<h3 align="center">Apaixonado por tecnologia, ciência e análise de dados.</h3>
+<h1 align="center">Hi there 👋, I'm Eric</h1>
+<h3 align="center">Passionate about technology, data science and analytics.</h3>
 
-- 🔭 Atualmente estou trabalhando em **Análise Black Friday**
+- 🔭 I'm currently working on **Black Friday Analysis**
 
-- 🌱 Atualmente estou me desenvolvendo em **Python, SQL, Power BI, Machine Learning, Data Visualization**
+- 🌱 I'm currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization**
 
-- 📝 Eventualmente escrevo artigos em [https://medium.com/@ericcestari](https://medium.com/@ericcestari)
+- 📝 Eventually I write on my blog [https://medium.com/@ericcestari](medium.com/@ericcestari)
 
-- 📫 Entre em contato através do e-mail **ericcestari@hotmail.com**
+- 📫 Please, write me an e-mail **ericcestari@hotmail.com**
 
-- 📄 Minhas experiências profissionais [https://www.linkedin.com/in/ericcestari/](https://www.linkedin.com/in/ericcestari/)
+- 📄 My professional experiences [https://www.linkedin.com/in/ericcestari/](linkedin.com/in/ericcestari/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
