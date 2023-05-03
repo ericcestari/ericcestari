@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **Black Friday Analysis**
 
-- 🌱 I'm currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization**
+- 🌱 I'm currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization, Javascript**
 
 - 📝 Eventually I write on my blog [https://medium.com/@ericcestari](medium.com/@ericcestari)
 
