@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Eric</h1>
 <h3 align="center">Passionate about technology, data science and analytics.</h3>
 
-- 🔭 I'm currently working on **Black Friday Analysis**
+- 🔭 I'm currently working at **ELSYS**
 
 - 🌱 I'm currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization, Javascript**
-
-- 📝 Eventually I write on my blog [https://medium.com/@ericcestari](medium.com/@ericcestari)
 
 - 📫 Please, write me an e-mail **ericcestari@hotmail.com**
 
