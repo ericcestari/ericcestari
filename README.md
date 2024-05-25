@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Eric</h1>
-<h3 align="center">Passionate about technology, data science and analytics.</h3>
+<h3 align="center">Passionate about technology.</h3>
 
 - 🔭 I'm currently working at **ELSYS**
 
-- 🌱 I'm currently learning **Python, SQL, Power BI, Machine Learning, Data Visualization, Javascript**
-
-- 📫 Please, write me an e-mail **ericcestari@hotmail.com**
+- 📫 How to reach me **ericcestari@hotmail.com**
 
 - 📄 My professional experiences [https://www.linkedin.com/in/ericcestari/](linkedin.com/in/ericcestari/)
 
